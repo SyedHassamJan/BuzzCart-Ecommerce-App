@@ -15,4 +15,5 @@ ehthumbs.db
 Desktop.ini
 
 # Editor settings
-.vscode/
+config.bat
+node_modules
